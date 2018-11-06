@@ -1,2 +1,2 @@
 this is first git test
-I made some change to your file
+I'm doing some changes to your file
